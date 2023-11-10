@@ -1,0 +1,7 @@
+docker pull image name(docker pull centos)
+docker images(to the images)
+docker ps(to see the list of running containers)
+docker run -its imagesname /bin/bash(to creat a container)
+docker ps -a(to see the container status)
+docker ps -as(to see the container size)
+docker ps -aq(list of all running containers)
